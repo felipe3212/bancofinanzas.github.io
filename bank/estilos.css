@@ -1,0 +1,1283 @@
+body{
+    background-color: darkgray;
+    width: 100%;
+    text-align: center;
+}
+
+
+header{
+    width: 90%;
+    margin: 10px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid greenyellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 15px;
+    height: 120px;
+    text-shadow: 2px 2px 5px greenyellow
+       
+}
+header{
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+}
+.titulo{
+    margin-left: -500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: green;
+}
+
+#imgbanco{
+    margin-top: -135px;
+    margin-right: -100px;
+    
+}
+nav{
+    width: 90%;
+    margin: 10px;
+    padding: 20px;
+    padding-top: 10px;
+    background: -moz-linear-gradient(top,greenyellow, green);
+    background: -webkit-linear-gradient(top,greenyellow, green);
+    background:  linear-gradient(top,greenyellow, green);
+    border: 1px solid green;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 15px;
+    height: -20px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+}
+.formulario{
+    background-color:rgb(172, 199, 132);
+    box-shadow: 1px 1px 1px 1px greenyellow;
+    border: 1px solid green;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 300px;
+    margin-top: -0px;
+    
+   width: 20%;
+}
+nav ul a {
+margin: 30px;
+
+}
+.imgtitulo{
+    width: 150px;
+    margin-left: 1000px;
+    margin-top: -140px;
+    margin-bottom: -40px;
+
+}
+
+#huellastitulo{
+    width: 150px;
+    margin-right: 1000px;
+    margin-top: -140px;
+}
+
+#articulos1 {
+    background-color: white;
+    margin-top: -280px;
+    border: 1px solid greenyellow;
+   
+    margin-left: 650px;
+    width: 300px;
+    height: 290px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+
+}
+
+#articulos2{
+    background-color:white;
+
+    border: 1px solid greenyellow;
+    
+    margin-left: 650px;
+    width: 300px;
+    height: 290px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+}
+
+#articulos3{
+    background-color:white;
+    float: right;
+    margin-top: -600px;
+    border: 1px solid greenyellow;
+    margin-right: 200px;
+    
+    width: 300px;
+    height: 290px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+}
+
+#articulos4{
+    background-color: white;
+    float: right;
+    margin-top: -290px;
+    border: 1px solid greenyellow;
+    margin-right: 200px;
+    
+    width: 300px;
+    height: 290px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+}
+
+
+.dogiss{ 
+    margin: 100px;
+    margin-top: -100px;
+    margin-bottom: 220px;
+    margin-left: 300px;
+    margin-right: 10px;
+    font-size: 90%;  
+}
+.dogi{
+    margin-right: 500px;
+    margin-top: -10px;
+}
+
+#product{
+    
+    margin-top: 10px;
+    font-size: 90%;  
+}
+
+#ahorro{
+    margin-top: 10px;
+}
+
+#car{
+    margin-top: 10px;
+}
+
+#hipo{
+    margin-top: 10px;
+}
+
+#text1{
+    margin-top: 350px;
+}
+
+#textt{
+    margin-top: -320px;
+    text-align: left;
+    
+}
+#sub{
+    margin-top: -300px;
+}
+aside{
+    /*background-color: #d7e3fc;*/
+    background: -moz-linear-gradient(top,greenyellow, greenyellow);
+    background: -webkit-linear-gradient(top,greenyellow, green);
+    background:  linear-gradient(top,greenyellow, green);
+    
+    
+    width: 300px;
+    height: 170px;
+    margin-top: -315px;
+    margin-left: 300px;
+    transform: rotate(-5deg);
+}
+
+#Tarjeta{
+    background: -moz-linear-gradient(top,greenyellow, greenyellow);
+    background: -webkit-linear-gradient(top,greenyellow, green);
+    background:  linear-gradient(top,greenyellow, green);
+    
+    
+    width: 300px;
+    height: 170px;
+    margin-top: 30px;
+    margin-left: 300px;
+    transform: rotate(4deg);
+
+}
+.subires{
+    text-align: left;
+    margin: 100px;
+    margin-top: -325px;
+    margin-bottom: 220px;
+    margin-left: 20px;
+    margin-right: 10px;
+    font-size: 90%;
+}
+.subiree{
+    text-align: left;
+    margin: 100px;
+    margin-top: -345px;
+    margin-bottom: 220px;
+    margin-left: 20px;
+    margin-right: 10px;
+    font-size: 90%;
+}
+.subiremos{
+    text-align: left;
+    display: flex;
+    margin-top: -140px;
+    margin-left: 200px;
+    margin-right: 10px;
+    font-size: 90%;
+}
+
+#subirem{
+    text-align: left;
+    display: flex;
+    margin-top: -75px;
+    margin-left: 200px;
+    margin-right: 10px;
+    font-size: 90%;  
+}
+
+#subi{
+    text-align: left;
+    display: flex;
+    margin-top: -140px;
+    margin-left: 200px;
+    margin-right: 10px;
+    font-size: 90%;
+
+}
+.parraf{
+
+   text-align: justify; 
+   text-align: left;
+   padding-right: 200px;
+}
+
+.parraff{
+text-align: right;}
+
+/*promociones*/
+
+.imgtitulo{
+    width: 150px;
+    margin-left: 1000px;
+    margin-top: -140px;
+    margin-bottom: -40px;
+
+}
+
+#huellastitulo{
+    width: 150px;
+    margin-right: 1000px;
+    margin-top: -140px;
+}
+
+#articuloss1 {
+    background-color: rgb(160, 119, 90);
+
+    border: 1px solid black;
+    margin-right: 50px;
+    margin-left: 150px;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+#articuloss2{
+    background-color:rgb(160, 119, 90);
+
+    border: 1px solid black;
+    margin-right: 50px;
+    margin-left: 150px;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#articuloss3{
+    background-color:rgb(160, 119, 90);
+    float: right;
+    margin-top: -622px;
+    border: 1px solid black;
+    margin-right: 250px;
+    margin-left: 10px;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#articuloss4{
+    background-color: rgb(160, 119, 90);
+    float: right;
+    margin-top: -300px;
+    border: 1px solid black;
+    margin-right: 250px;
+    margin-left: 10px;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+
+.dogiss{
+    text-align: right;
+    margin: 100px;
+    margin-top: -10px;
+    margin-bottom: 220px;
+    margin-left: 250px;
+    margin-right: 10px;
+    font-size: 90%;  
+}
+.dogi{
+    margin-right: 500px;
+    margin-top: -10px;
+}
+
+.promo1{
+    text-align: center;
+    margin: 100px;
+    margin-top: -0px;
+    margin-bottom: 220px;
+    margin-left: 20px;
+    margin-right: 10px;
+    font-size: 90%;
+}
+.promo2{
+    text-align: center;
+    margin: 100px;
+    margin-top: -0px;
+    margin-bottom: 220px;
+    margin-left: 20px;
+    margin-right: 10px;
+    font-size: 90%;
+}
+.subiremos{
+    text-align: left;
+    display: flex;
+    margin-top: -140px;
+    margin-left: 200px;
+    margin-right: 10px;
+    font-size: 90%;
+}
+
+#subirem{
+    text-align: left;
+    display: flex;
+    margin-top: -75px;
+    margin-left: 200px;
+    margin-right: 10px;
+    font-size: 90%;  
+}
+
+#subi{
+    text-align: left;
+    display: flex;
+    margin-top: -140px;
+    margin-left: 200px;
+    margin-right: 10px;
+    font-size: 90%;
+
+}
+.parraf{
+
+   text-align: justify; 
+   text-align: left;
+   padding-right: 200px;
+}
+
+.parraff{
+text-align: right;}
+
+/*credito*/
+
+body{
+    background-color: darkgray;
+    width: 100%;
+    text-align: center;
+}
+
+
+header{
+    width: 90%;
+    margin: 10px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid greenyellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 15px;
+    height: 120px;
+    text-shadow: 2px 2px 5px greenyellow
+       
+}
+header{
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+}
+.titulo{
+    margin-left: -500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: green;
+}
+
+#imgbanco{
+    margin-top: -135px;
+    margin-right: -100px;
+    
+}
+nav{
+    width: 90%;
+    margin: 10px;
+    padding: 20px;
+    padding-top: 10px;
+    background: -moz-linear-gradient(top,greenyellow, green);
+    background: -webkit-linear-gradient(top,greenyellow, green);
+    background:  linear-gradient(top,greenyellow, green);
+    border: 1px solid green;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 15px;
+    height: -20px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+}
+.formulario{
+    background-color:rgb(172, 199, 132);
+    box-shadow: 1px 1px 1px 1px greenyellow;
+    border: 1px solid green;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 300px;
+    margin-top: -0px;
+    
+   width: 20%;
+}
+nav ul a {
+margin: 30px;
+
+}
+.imgtitulo{
+    width: 150px;
+    margin-left: 1000px;
+    margin-top: -140px;
+    margin-bottom: -40px;
+
+}
+
+#huellastitulo{
+    width: 150px;
+    margin-right: 1000px;
+    margin-top: -140px;
+}
+
+#articulo1 {
+    background-color: white;
+    margin-top: -0px;
+    border: 1px solid greenyellow;
+    margin-left: 1090px;
+    width: 300px;
+    height: 290px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+
+}
+
+#articulo2{
+    background-color:white;
+    border: 1px solid greenyellow;
+    margin-top: -300px;
+    margin-left: 760px;
+    width: 300px;
+    height: 290px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+}
+
+#articulo3{
+    background-color:white;
+    
+    margin-top: -300px;
+    border: 1px solid greenyellow;
+    margin-left: 400px;
+    
+    width: 300px;
+    height: 290px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+}
+
+#articulo4{
+    background-color: white;
+    margin-top: -290px;
+    border: 1px solid greenyellow;
+    margin-left: 40px;
+    
+    width: 300px;
+    height: 290px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+}
+
+
+.dogiss{ 
+    margin: 100px;
+    margin-top: -100px;
+    margin-bottom: 220px;
+    margin-left: 300px;
+    margin-right: 10px;
+    font-size: 90%;  
+}
+.dogi{
+    margin-right: 500px;
+    margin-top: -10px;
+}
+
+#product{
+    
+    margin-top: 10px;
+    font-size: 90%;  
+}
+
+#ahorro{
+    margin-top: 10px;
+}
+
+#car{
+    margin-top: 10px;
+}
+
+#hipo{
+    margin-top: 10px;
+}
+
+#text1{
+    margin-top: 350px;
+}
+
+#textt{
+    margin-top: -320px;
+    text-align: left;
+    
+}
+#sub{
+    margin-top: -300px;
+}
+aside{
+    /*background-color: #d7e3fc;*/
+    background: -moz-linear-gradient(top,greenyellow, greenyellow);
+    background: -webkit-linear-gradient(top,greenyellow, green);
+    background:  linear-gradient(top,greenyellow, green);
+    
+    
+    width: 300px;
+    height: 170px;
+    margin-top: -315px;
+    margin-left: 300px;
+    transform: rotate(-5deg);
+}
+
+#Tarjeta{
+    background: -moz-linear-gradient(top,greenyellow, greenyellow);
+    background: -webkit-linear-gradient(top,greenyellow, green);
+    background:  linear-gradient(top,greenyellow, green);
+    
+    
+    width: 300px;
+    height: 170px;
+    margin-top: 30px;
+    margin-left: 300px;
+    transform: rotate(4deg);
+
+}
+.subires{
+    text-align: left;
+    margin: 100px;
+    margin-top: -325px;
+    margin-bottom: 220px;
+    margin-left: 20px;
+    margin-right: 10px;
+    font-size: 90%;
+}
+.subiree{
+    text-align: left;
+    margin: 100px;
+    margin-top: -345px;
+    margin-bottom: 220px;
+    margin-left: 20px;
+    margin-right: 10px;
+    font-size: 90%;
+}
+.subiremos{
+    text-align: left;
+    display: flex;
+    margin-top: -140px;
+    margin-left: 200px;
+    margin-right: 10px;
+    font-size: 90%;
+}
+
+#subirem{
+    text-align: left;
+    display: flex;
+    margin-top: -75px;
+    margin-left: 200px;
+    margin-right: 10px;
+    font-size: 90%;  
+}
+
+#subi{
+    text-align: left;
+    display: flex;
+    margin-top: -140px;
+    margin-left: 200px;
+    margin-right: 10px;
+    font-size: 90%;
+
+}
+.parraf{
+
+   text-align: justify; 
+   text-align: left;
+   padding-right: 200px;
+}
+
+.parraff{
+text-align: right;}
+
+/*promociones*/
+
+.imgtitulo{
+    width: 150px;
+    margin-left: 1000px;
+    margin-top: -140px;
+    margin-bottom: -40px;
+
+}
+
+#huellastitulo{
+    width: 150px;
+    margin-right: 1000px;
+    margin-top: -140px;
+}
+
+#articuloss1 {
+    background-color: rgb(160, 119, 90);
+
+    border: 1px solid black;
+    margin-right: 50px;
+    margin-left: 150px;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+#articuloss2{
+    background-color:rgb(160, 119, 90);
+
+    border: 1px solid black;
+    margin-right: 50px;
+    margin-left: 150px;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#articuloss3{
+    background-color:rgb(160, 119, 90);
+    float: right;
+    margin-top: -622px;
+    border: 1px solid black;
+    margin-right: 250px;
+    margin-left: 10px;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#articuloss4{
+    background-color: rgb(160, 119, 90);
+    float: right;
+    margin-top: -300px;
+    border: 1px solid black;
+    margin-right: 250px;
+    margin-left: 10px;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+
+.dogiss{
+    text-align: right;
+    margin: 100px;
+    margin-top: -10px;
+    margin-bottom: 220px;
+    margin-left: 250px;
+    margin-right: 10px;
+    font-size: 90%;  
+}
+.dogi{
+    margin-right: 500px;
+    margin-top: -10px;
+}
+
+.promo1{
+    text-align: center;
+    margin: 100px;
+    margin-top: -0px;
+    margin-bottom: 220px;
+    margin-left: 20px;
+    margin-right: 10px;
+    font-size: 90%;
+}
+.promo2{
+    text-align: center;
+    margin: 100px;
+    margin-top: -0px;
+    margin-bottom: 220px;
+    margin-left: 20px;
+    margin-right: 10px;
+    font-size: 90%;
+}
+.subiremos{
+    text-align: left;
+    display: flex;
+    margin-top: -140px;
+    margin-left: 200px;
+    margin-right: 10px;
+    font-size: 90%;
+}
+
+#subirem{
+    text-align: left;
+    display: flex;
+    margin-top: -75px;
+    margin-left: 200px;
+    margin-right: 10px;
+    font-size: 90%;  
+}
+
+#subi{
+    text-align: left;
+    display: flex;
+    margin-top: -140px;
+    margin-left: 200px;
+    margin-right: 10px;
+    font-size: 90%;
+
+}
+.parraf{
+
+   text-align: justify; 
+   text-align: left;
+   padding-right: 200px;
+}
+
+.parraff{
+text-align: right;}
+
+/*Leasing*/
+
+body{
+    background-color: darkgray;
+    width: 100%;
+    text-align: center;
+}
+
+
+header{
+    width: 90%;
+    margin: 10px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid greenyellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 15px;
+    height: 120px;
+    text-shadow: 2px 2px 5px greenyellow
+       
+}
+header{
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+}
+.titulo{
+    margin-left: -500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: green;
+}
+
+#imgbanco{
+    margin-top: -135px;
+    margin-right: -100px;
+    
+}
+nav{
+    width: 90%;
+    margin: 10px;
+    padding: 20px;
+    padding-top: 10px;
+    background: -moz-linear-gradient(top,greenyellow, green);
+    background: -webkit-linear-gradient(top,greenyellow, green);
+    background:  linear-gradient(top,greenyellow, green);
+    border: 1px solid green;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 15px;
+    height: -20px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+}
+.formulario{
+    background-color:rgb(172, 199, 132);
+    box-shadow: 1px 1px 1px 1px greenyellow;
+    border: 1px solid green;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 300px;
+    margin-top: -0px;
+    
+   width: 20%;
+}
+nav ul a {
+margin: 30px;
+
+}
+.imgtitulo{
+    width: 150px;
+    margin-left: 1000px;
+    margin-top: -140px;
+    margin-bottom: -40px;
+
+}
+
+#huellastitulo{
+    width: 150px;
+    margin-right: 1000px;
+    margin-top: -140px;
+}
+
+#articul1 {
+    background-color: white;
+    margin-top: -0px;
+    border: 1px solid greenyellow;
+    margin-left: 770px;
+    width: 600px;
+    height: 290px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+
+}
+
+#articul2{
+    background-color:white;
+    border: 1px solid greenyellow;
+    margin-top: 40px;
+    margin-left: 400px;
+    width: 600px;
+    height: 290px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+}
+
+#articul3{
+    background-color:white;
+    
+    margin-top: -640px;
+    border: 1px solid greenyellow;
+    margin-left: 30px;
+    
+    width: 600px;
+    height: 290px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+}
+
+
+
+.dogiss{ 
+    margin: 100px;
+    margin-top: -100px;
+    margin-bottom: 220px;
+    margin-left: 300px;
+    margin-right: 10px;
+    font-size: 90%;  
+}
+.dogi{
+    margin-right: 500px;
+    margin-top: -10px;
+}
+
+#product{
+    
+    margin-top: 10px;
+    font-size: 90%;  
+}
+
+#ahorro{
+    margin-top: 10px;
+}
+
+#car{
+    margin-top: 10px;
+}
+
+#hipo{
+    margin-top: 10px;
+}
+
+#text1{
+    margin-top: 350px;
+}
+
+#textt{
+    margin-top: -320px;
+    text-align: left;
+    
+}
+#sub{
+    margin-top: -300px;
+}
+aside{
+    /*background-color: #d7e3fc;*/
+    background: -moz-linear-gradient(top,greenyellow, greenyellow);
+    background: -webkit-linear-gradient(top,greenyellow, green);
+    background:  linear-gradient(top,greenyellow, green);
+    
+    
+    width: 300px;
+    height: 170px;
+    margin-top: -315px;
+    margin-left: 300px;
+    transform: rotate(-5deg);
+}
+
+#Tarjeta{
+    background: -moz-linear-gradient(top,greenyellow, greenyellow);
+    background: -webkit-linear-gradient(top,greenyellow, green);
+    background:  linear-gradient(top,greenyellow, green);
+    
+    
+    width: 300px;
+    height: 170px;
+    margin-top: 30px;
+    margin-left: 300px;
+    transform: rotate(4deg);
+
+}
+.subires{
+    text-align: left;
+    margin: 100px;
+    margin-top: -325px;
+    margin-bottom: 220px;
+    margin-left: 20px;
+    margin-right: 10px;
+    font-size: 90%;
+}
+.subiree{
+    text-align: left;
+    margin: 100px;
+    margin-top: -345px;
+    margin-bottom: 220px;
+    margin-left: 20px;
+    margin-right: 10px;
+    font-size: 90%;
+}
+.subiremos{
+    text-align: left;
+    display: flex;
+    margin-top: -140px;
+    margin-left: 200px;
+    margin-right: 10px;
+    font-size: 90%;
+}
+
+#subirem{
+    text-align: left;
+    display: flex;
+    margin-top: -75px;
+    margin-left: 200px;
+    margin-right: 10px;
+    font-size: 90%;  
+}
+
+#subi{
+    text-align: left;
+    display: flex;
+    margin-top: -140px;
+    margin-left: 200px;
+    margin-right: 10px;
+    font-size: 90%;
+
+}
+.parraf{
+
+   text-align: justify; 
+   text-align: left;
+   padding-right: 200px;
+}
+
+.parraff{
+text-align: right;}
+
+/*servicio al cliente*/
+
+body{
+    background-color: darkgray;
+    width: 100%;
+    text-align: center;
+}
+
+
+header{
+    width: 90%;
+    margin: 10px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid greenyellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 15px;
+    height: 120px;
+    text-shadow: 2px 2px 5px greenyellow
+       
+}
+header{
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+}
+.titulo{
+    margin-left: -500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: green;
+}
+
+#imgbanco{
+    margin-top: -135px;
+    margin-right: -100px;
+    
+}
+nav{
+    width: 90%;
+    margin: 10px;
+    padding: 20px;
+    padding-top: 10px;
+    background: -moz-linear-gradient(top,greenyellow, green);
+    background: -webkit-linear-gradient(top,greenyellow, green);
+    background:  linear-gradient(top,greenyellow, green);
+    border: 1px solid green;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 15px;
+    height: -20px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+}
+.formulario{
+    background-color:rgb(172, 199, 132);
+    box-shadow: 1px 1px 1px 1px greenyellow;
+    border: 1px solid green;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 300px;
+    margin-top: -0px;
+    
+   width: 20%;
+}
+nav ul a {
+margin: 30px;
+
+}
+.imgtitulo{
+    width: 150px;
+    margin-left: 1000px;
+    margin-top: -140px;
+    margin-bottom: -40px;
+
+}
+
+#huellastitulo{
+    width: 150px;
+    margin-right: 1000px;
+    margin-top: -140px;
+}
+
+#articulo10 {
+    background-color: white;
+    
+    border: 1px solid greenyellow;
+    margin-left: 1090px;
+    width: 300px;
+    height: 290px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+
+}
+
+#articulo20{
+    background-color:white;
+    border: 1px solid greenyellow;
+    margin-top: 100px;
+    margin-left: 760px;
+    width: 300px;
+    height: 290px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+}
+
+#articulo30{
+    background-color:white;
+    
+    margin-top: -700px;
+    border: 1px solid greenyellow;
+    margin-left: 400px;
+    
+    width: 300px;
+    height: 290px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+}
+
+#articulo40{
+    background-color: white;
+    margin-top: 100px;
+    border: 1px solid greenyellow;
+    margin-left: 40px;
+    
+    width: 300px;
+    height: 290px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 1px 1px 1px 1px greenyellow;
+}
+
+
+.dogiss{ 
+    margin: 100px;
+    margin-top: -100px;
+    margin-bottom: 220px;
+    margin-left: 300px;
+    margin-right: 10px;
+    font-size: 90%;  
+}
+.dogi{
+    margin-right: 500px;
+    margin-top: -10px;
+}
+
+#product{
+    
+    margin-top: 10px;
+    font-size: 90%;  
+}
+
+#ahorro{
+    margin-top: 10px;
+}
+
+#car{
+    margin-top: 10px;
+}
+
+#hipo{
+    margin-top: 10px;
+}
+
+#text1{
+    margin-top: 350px;
+}
+
+#textt{
+    margin-top: -320px;
+    text-align: left;
+    
+}
+#sub{
+    margin-top: -300px;
+}
+aside{
+    /*background-color: #d7e3fc;*/
+    background: -moz-linear-gradient(top,greenyellow, greenyellow);
+    background: -webkit-linear-gradient(top,greenyellow, green);
+    background:  linear-gradient(top,greenyellow, green);
+    
+    
+    width: 300px;
+    height: 170px;
+    margin-top: -315px;
+    margin-left: 300px;
+    transform: rotate(-5deg);
+}
+
+#Tarjeta{
+    background: -moz-linear-gradient(top,greenyellow, greenyellow);
+    background: -webkit-linear-gradient(top,greenyellow, green);
+    background:  linear-gradient(top,greenyellow, green);
+    
+    
+    width: 300px;
+    height: 170px;
+    margin-top: 30px;
+    margin-left: 300px;
+    transform: rotate(4deg);
+
+}
+.subires{
+    text-align: left;
+    margin: 100px;
+    margin-top: -325px;
+    margin-bottom: 220px;
+    margin-left: 20px;
+    margin-right: 10px;
+    font-size: 90%;
+}
+.subiree{
+    text-align: left;
+    margin: 100px;
+    margin-top: -345px;
+    margin-bottom: 220px;
+    margin-left: 20px;
+    margin-right: 10px;
+    font-size: 90%;
+}
+.subiremos{
+    text-align: left;
+    display: flex;
+    margin-top: -140px;
+    margin-left: 200px;
+    margin-right: 10px;
+    font-size: 90%;
+}
+
+#subirem{
+    text-align: left;
+    display: flex;
+    margin-top: -75px;
+    margin-left: 200px;
+    margin-right: 10px;
+    font-size: 90%;  
+}
+
+#subi{
+    text-align: left;
+    display: flex;
+    margin-top: -140px;
+    margin-left: 200px;
+    margin-right: 10px;
+    font-size: 90%;
+
+}
+.parraf{
+
+   text-align: justify; 
+   text-align: left;
+   padding-right: 200px;
+}
+
+.parraff{
+text-align: right;}
